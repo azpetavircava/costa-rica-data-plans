@@ -71,3 +71,10 @@ layout: default
 *   **中央高地/云雾森林 (蒙特维德、圣赫拉多)**： 村镇有信号，**徒步小径深处常是盲区**。提前下载离线地图！所有运营商在深山老林都一样“躺平”。
 
 　　*个人踩坑：在蒙特维德
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Costa Rica SIM 卡购买与激活指南](https://faciylike.github.io/costa-rica-sim-guides)
